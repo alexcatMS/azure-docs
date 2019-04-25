@@ -23,7 +23,7 @@ ms.collection: M365-identity-device-management
 
 # How To: Improve the detection accuracy 
 
-Identity Protection provides mechanisms to give feedback to Azure AD on the risk detections in your environment. To provide feedback, you can confirm the status of detected risky user or sign-in event. Microsoft users this feedback to take action on current risk detections and improve the accuracy of future detections. 
+Identity Protection provides mechanisms to give feedback to Azure AD on the risk detections in your environment. To provide feedback, you can confirm the status of detected risky user or sign-in event. Microsoft uses this feedback to take action on current risk detections and improve the accuracy of future detections. 
 
 
 ## What is detection?
